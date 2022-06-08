@@ -1,0 +1,19 @@
+.navbar,
+.navbar-brand {
+  gap: 24px;
+  color: #344563;
+}
+
+ul {
+  gap: 12px;
+  list-style-type: none;
+  color: gray;
+}
+
+.primary-content {
+  padding: 160px 0;
+}
+
+.bg-image {
+  background-image: url(/images/Header-llustration-desktop.svg);
+}
