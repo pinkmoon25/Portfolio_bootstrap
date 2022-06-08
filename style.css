@@ -7,11 +7,19 @@
 ul {
   gap: 12px;
   list-style-type: none;
-  color: gray;
+  color: #505F79;
 }
 
 .primary-content {
   padding: 160px 0;
+}
+
+.primary-content h1::first-line {
+  color: #172B4D;
+}
+
+.primary-content h1 {
+  color: green;
 }
 
 a {
@@ -21,10 +29,7 @@ a {
 
 .bg-image {
   min-height: 100vh;
-  background-image: url(images/Header-llustration-desktop.svg); 
-  background-size: contain; 
-  background-repeat: no-repeat; 
-  background-position: center;
+  background: url(./images/Group-35.png) no-repeat, url(./images/Frame.png) 70% 0% no-repeat, url(./images/Group-38.png) 31% 2% no-repeat, url(./images/Frame-5.png) 2% 6% no-repeat, url(./images/Group-36.png) 100% 4% no-repeat, url(./images/Group-37.png) 15% 18% no-repeat, url(./images/Frame-3.png) 36% 15% no-repeat, url(./images/Frame-2.png) 70% 17% no-repeat, url(./images/Vector.png) 50% 25% no-repeat;
 }
 
 .project-card {
