@@ -54,4 +54,5 @@ a {
 
 .contact {
   padding: 80px 0;
+  background: url(images/illustration-1-contact-form-desktop.svg) 0% 200% no-repeat, url(images/illustration-2-contact-form-desktop.svg) 15% 88% no-repeat, url(images/contact-form-illustratoin-3-desktop.svg) 100% 100% no-repeat;
 }
