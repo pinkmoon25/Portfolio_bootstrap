@@ -7,7 +7,7 @@
 ul {
   gap: 12px;
   list-style-type: none;
-  color: #505F79;
+  color: #505f79;
 }
 
 .primary-content {
@@ -15,7 +15,7 @@ ul {
 }
 
 .primary-content h1::first-line {
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .primary-content h1 {
@@ -29,7 +29,7 @@ a {
 
 .bg-image {
   min-height: 100vh;
-  background-image: url(./images/Header-llustration-desktop.svg)
+  background-image: url(./images/Header-llustration-desktop.svg);
 }
 
 .project-card {
