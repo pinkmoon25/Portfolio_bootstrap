@@ -41,3 +41,12 @@ a {
 .works {
   padding: 80px 0;
 }
+
+.about-me {
+  background: url(./images/illustration-about-me-2-desktop.png) 0% 12% no-repeat, url(./images/illustration-about\ me-1-desktop.png) 100% -8% no-repeat;
+}
+
+.about-me .project-card {
+  width: 369px;
+  height: 352px;
+}
