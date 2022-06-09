@@ -29,7 +29,7 @@ a {
 
 .bg-image {
   min-height: 100vh;
-  background: url(./images/Group-35.png) no-repeat, url(./images/Frame.png) 70% 0% no-repeat, url(./images/Group-38.png) 31% 2% no-repeat, url(./images/Frame-5.png) 2% 6% no-repeat, url(./images/Group-36.png) 100% 4% no-repeat, url(./images/Group-37.png) 15% 18% no-repeat, url(./images/Frame-3.png) 36% 15% no-repeat, url(./images/Frame-2.png) 70% 17% no-repeat, url(./images/Vector.png) 50% 25% no-repeat;
+  background-image: url(./images/Header-llustration-desktop.svg)
 }
 
 .project-card {
@@ -43,10 +43,15 @@ a {
 }
 
 .about-me {
-  background: url(./images/illustration-about-me-2-desktop.png) 0% 12% no-repeat, url(./images/illustration-about\ me-1-desktop.png) 100% -8% no-repeat;
+  background: url(./images/illustration-about-me-2-desktop.png) 0% 25% no-repeat, url(./images/illustration-about\ me-1-desktop.png) 100% 0% no-repeat;
+  padding: 80px 0;
 }
 
 .about-me .project-card {
   width: 369px;
   height: 352px;
+}
+
+.contact {
+  padding: 80px 0;
 }
