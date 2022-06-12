@@ -1,0 +1,58 @@
+.navbar,
+.navbar-brand {
+  gap: 20px;
+  color: #344563;
+}
+
+ul {
+  gap: 12px;
+  list-style-type: none;
+  color: #505f79;
+}
+
+.primary-content {
+  padding: 160px 0;
+}
+
+.primary-content h1::first-line {
+  color: #172b4d;
+}
+
+.primary-content h1 {
+  color: green;
+}
+
+a {
+  color: gray;
+  font-size: large;
+}
+
+.bg-image {
+  min-height: 100vh;
+  background-image: url(./images/Header-llustration-desktop.svg);
+}
+
+.project-card {
+  width: 369px;
+  height: 474px;
+  background-image: url(images/Img-Placeholder.png);
+}
+
+.works {
+  padding: 80px 0;
+}
+
+.about-me {
+  background: url(./images/illustration-about-me-2-desktop.png) 0% 25% no-repeat, url(./images/illustration-about\ me-1-desktop.png) 100% 0% no-repeat;
+  padding: 80px 0;
+}
+
+.about-me .project-card {
+  width: 369px;
+  height: 352px;
+}
+
+.contact {
+  padding: 80px 0;
+  background: url(images/illustration-1-contact-form-desktop.svg) 0% 200% no-repeat, url(images/illustration-2-contact-form-desktop.svg) 15% 88% no-repeat, url(images/contact-form-illustratoin-3-desktop.svg) 100% 100% no-repeat;
+}
